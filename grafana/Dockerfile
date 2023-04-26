@@ -1,4 +1,4 @@
-FROM grafana/grafana
+FROM grafana/grafana:4.4.2
 
 #RUN yum update && yum install -y curl gettext-base && rm -rf /var/lib/apt/lists/*
 
